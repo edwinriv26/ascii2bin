@@ -3,7 +3,7 @@
 
 int main()
 {
-    int offset = 48;  // ascii value of '0'
+    int offset = 30;  // ascii value of '0'
     int number = 0;
     char ascii_value;
 
